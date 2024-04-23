@@ -1,0 +1,367 @@
+.schedule-child,
+.schedule-item {
+  left: calc(50% - 468px);
+  width: 538px;
+  height: 40px;
+}
+.schedule-child {
+  position: absolute;
+  top: 333px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gainsboro-100);
+}
+.schedule-item {
+  top: 1141px;
+}
+.schedule-child1,
+.schedule-inner,
+.schedule-item {
+  position: absolute;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gainsboro-100);
+}
+.schedule-inner {
+  top: 1943px;
+  left: calc(50% - 468px);
+  width: 538px;
+  height: 40px;
+}
+.schedule-child1 {
+  bottom: 981px;
+  left: calc(50% - 564px);
+  width: 456px;
+  height: 85px;
+}
+.group-child,
+.group-child1,
+.group-child2,
+.group-child3,
+.group-inner,
+.group-item {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 468px);
+  border-radius: var(--br-xs) 0 0 var(--br-xs);
+  background-color: var(--color-gray-300);
+  width: 219.1px;
+  height: 75px;
+}
+.group-child1,
+.group-child2,
+.group-child3,
+.group-inner,
+.group-item {
+  top: 416px;
+}
+.group-child1,
+.group-child2,
+.group-child3,
+.group-inner {
+  top: 208px;
+}
+.group-child1,
+.group-child2,
+.group-child3 {
+  top: 104px;
+}
+.group-child2,
+.group-child3 {
+  top: 520px;
+}
+.group-child3 {
+  top: 312px;
+}
+.group-child4,
+.group-child5,
+.group-child6,
+.group-child7,
+.group-child8,
+.group-child9 {
+  position: absolute;
+  top: 75px;
+  left: calc(50% + 468px);
+  border-radius: var(--br-xs) 0 0 var(--br-xs);
+  background-color: var(--color-gainsboro-100);
+  width: 716.9px;
+  height: 75px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.group-child5,
+.group-child6,
+.group-child7,
+.group-child8,
+.group-child9 {
+  top: 491px;
+}
+.group-child6,
+.group-child7,
+.group-child8,
+.group-child9 {
+  top: 283px;
+}
+.group-child7,
+.group-child8,
+.group-child9 {
+  top: 179px;
+}
+.group-child8,
+.group-child9 {
+  top: 595px;
+}
+.group-child9 {
+  top: 387px;
+}
+.group-div,
+.rectangle-parent3,
+.rectangle-parent4 {
+  position: absolute;
+  top: 446px;
+  left: calc(50% - 468px);
+  width: 936px;
+  height: 595px;
+}
+.rectangle-parent3,
+.rectangle-parent4 {
+  top: 1247px;
+}
+.rectangle-parent4 {
+  top: 2053px;
+}
+.schedule-child2,
+.schedule-child3,
+.schedule-child4,
+.schedule-child5,
+.schedule-child6 {
+  position: absolute;
+  bottom: 763px;
+  left: calc(50% - 468px);
+  border-radius: var(--br-20xl) 0 var(--br-16xl) 0;
+  background-color: var(--color-darkgray-100);
+  width: 168px;
+  height: 133px;
+}
+.schedule-child3,
+.schedule-child4,
+.schedule-child5,
+.schedule-child6 {
+  left: calc(50% - 276px);
+  border-radius: var(--br-8xl);
+}
+.schedule-child4,
+.schedule-child5,
+.schedule-child6 {
+  left: calc(50% - 84px);
+  border-radius: var(--br-47xl-5);
+}
+.schedule-child5,
+.schedule-child6 {
+  left: calc(50% + 108px);
+  border-radius: var(--br-13xl);
+}
+.schedule-child6 {
+  left: calc(50% + 300px);
+  border-radius: var(--br-11xl) 0 0 0;
+}
+.schedule-child7,
+.schedule-child8 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 720px);
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 644px;
+}
+.schedule-child8 {
+  bottom: 226px;
+  left: calc(50% - 574px);
+  border-radius: 50%;
+  background-color: var(--color-dimgray-200);
+  width: 274px;
+  height: 271px;
+}
+.group-child34,
+.group-child35,
+.group-child36,
+.group-child37,
+.group-child38 {
+  position: absolute;
+  bottom: 135px;
+  left: calc(50% - 96px);
+  border-radius: var(--br-xs);
+  background-color: var(--color-dimgray-100);
+  width: 192px;
+  height: 20px;
+}
+.group-child35,
+.group-child36,
+.group-child37,
+.group-child38 {
+  bottom: 101px;
+}
+.group-child36,
+.group-child37,
+.group-child38 {
+  bottom: 68px;
+  width: 117.3px;
+  height: 19px;
+}
+.group-child37,
+.group-child38 {
+  bottom: 34px;
+  width: 174.8px;
+  height: 20px;
+}
+.group-child38 {
+  bottom: 0;
+  width: 143.6px;
+}
+.rectangle-parent5,
+.rectangle-parent6 {
+  position: absolute;
+  bottom: 396px;
+  left: calc(50% - 204px);
+  width: 192px;
+  height: 155px;
+}
+.rectangle-parent6 {
+  bottom: 204px;
+}
+.group-child44,
+.group-child45,
+.group-child46,
+.group-child47,
+.group-child48 {
+  position: absolute;
+  bottom: 135px;
+  left: calc(50% - 90px);
+  border-radius: var(--br-xs);
+  background-color: var(--color-dimgray-100);
+  width: 180px;
+  height: 20px;
+}
+.group-child45,
+.group-child46,
+.group-child47,
+.group-child48 {
+  bottom: 101px;
+}
+.group-child46,
+.group-child47,
+.group-child48 {
+  bottom: 68px;
+  width: 110px;
+  height: 19px;
+}
+.group-child47,
+.group-child48 {
+  bottom: 34px;
+  width: 163.8px;
+  height: 20px;
+}
+.group-child48 {
+  bottom: 0;
+  width: 134.6px;
+}
+.rectangle-parent7,
+.rectangle-parent8 {
+  position: absolute;
+  bottom: 396px;
+  left: calc(50% + 107px);
+  width: 180px;
+  height: 155px;
+}
+.rectangle-parent8 {
+  bottom: 204px;
+}
+.group-child54,
+.group-child55,
+.group-child56,
+.group-child57,
+.group-child58,
+.schedule-child9 {
+  position: absolute;
+  bottom: 83px;
+  left: calc(50% - 564px);
+  border-radius: var(--br-xs);
+  background-color: var(--color-dimgray-100);
+  width: 1128px;
+  height: 15px;
+}
+.group-child54,
+.group-child55,
+.group-child56,
+.group-child57,
+.group-child58 {
+  bottom: 135px;
+  left: calc(50% - 84px);
+  width: 168px;
+  height: 20px;
+}
+.group-child55,
+.group-child56,
+.group-child57,
+.group-child58 {
+  bottom: 101px;
+}
+.group-child56,
+.group-child57,
+.group-child58 {
+  bottom: 68px;
+  width: 102.7px;
+  height: 19px;
+}
+.group-child57,
+.group-child58 {
+  bottom: 34px;
+  width: 152.9px;
+  height: 20px;
+}
+.group-child58 {
+  bottom: 0;
+  width: 125.6px;
+}
+.rectangle-parent10,
+.rectangle-parent9 {
+  position: absolute;
+  bottom: 396px;
+  left: calc(50% + 396px);
+  width: 168px;
+  height: 155px;
+}
+.rectangle-parent10 {
+  bottom: 204px;
+}
+.schedule-child10 {
+  position: absolute;
+  top: -2px;
+  left: 0;
+  background-color: var(--color-silver-200);
+  width: 1440px;
+  height: 249px;
+}
+.schedule-child11 {
+  position: absolute;
+  top: 109px;
+  left: 152px;
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+  width: 186px;
+  height: 186px;
+}
+.schedule-child12 {
+  position: absolute;
+  top: 123px;
+  left: 536px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-400);
+  width: 744px;
+  height: 22px;
+}
+.schedule {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3798px;
+  overflow: hidden;
+}
