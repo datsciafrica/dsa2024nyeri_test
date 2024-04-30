@@ -1,0 +1,9 @@
+plugins:
+#  - jekyll-autoprefixer
+
+autoprefixer:
+  browsers:
+    - last 4 versions
+#    - Safari > 2
+safe: false
+future: true
